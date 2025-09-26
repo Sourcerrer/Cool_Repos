@@ -5,3 +5,5 @@ This repo hold a text file for all the cool repos I have encountered
 2. https://github.com/hbldh/bleak
 3. https://github.com/CANopenNode/CanOpenSTM32
 4. https://github.com/jollyvjacob/Books
+
+https://github.com/rust-embedded
